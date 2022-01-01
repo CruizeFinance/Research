@@ -1,1 +1,1 @@
-This repository contains public information about [Cruize Finance](https://cruize.org/)
+This repository contains research information about [Cruize Finance](https://cruize.org/)
